@@ -1,0 +1,33 @@
+[submodule "tuktuk-gpt-oracle"]
+	path = tuktuk-gpt-oracle
+	url = https://github.com/DivineUX23/tuktuk-gpt-oracle
+[submodule "anchor-core-staking"]
+	path = anchor-core-staking
+	url = https://github.com/DivineUX23/anchor-core-staking
+[submodule "pinocchio-fundraiser"]
+	path = pinocchio-fundraiser
+	url = https://github.com/DivineUX23/pinocchio-fundraiser
+[submodule "optimized-fundraiser"]
+	path = optimized-fundraiser
+	url = https://github.com/DivineUX23/optimized-fundraiser
+[submodule "asm-optimized-fundraiser"]
+	path = asm-optimized-fundraiser
+	url = https://github.com/DivineUX23/asm-optimized-fundraiser
+[submodule "magicblock-tuktuk"]
+	path = magicblock-tuktuk
+	url = https://github.com/DivineUX23/magicblock-tuktuk
+[submodule "accel-p-escrow"]
+	path = accel-p-escrow
+	url = https://github.com/DivineUX23/accel-p-escrow
+[submodule "turbine-serialize"]
+	path = turbine-serialize
+	url = https://github.com/DivineUX23/turbine-serialize
+[submodule "transfer-hook-vault"]
+	path = transfer-hook-vault
+	url = https://github.com/DivineUX23/transfer-hook-vault
+[submodule "anchor-escrow-q2-2026"]
+	path = anchor-escrow-q2-2026
+	url = https://github.com/DivineUX23/anchor-escrow-q2-2026
+[submodule "magicblock-er-example"]
+	path = magicblock-er-example
+	url = https://github.com/DivineUX23/magicblock-er-example
